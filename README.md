@@ -6,7 +6,7 @@ Building data-driven projects using Python, Machine Learning, and Power BI
 
 Enhancing my skills in predictive modeling and data visualization
 
-🌱 I’m currently learning
+🌱 i have learning
 
 Advanced Machine Learning
 
